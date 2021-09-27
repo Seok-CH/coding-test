@@ -39,7 +39,7 @@ function solution(begin, target, words) {
         // ! 바꾼 문자가 words안에 포함되어 있지 않거나 방문 한 것이면 반복을 건너뛴다.
         if (!words.includes(copyStr) || visited[copyStr]) continue;
 
-        // - 아니라면 방문했다고 표시한다음 queue에 푸쉬한다.
+        // - 아니라면 방문했다고 표시한다음 카운트를 올리고 queue에 푸쉬한다.
         visited[copyStr] = true;
         queue.push([copyStr, cnt + 1]);
       }
