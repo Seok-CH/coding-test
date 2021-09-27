@@ -19,9 +19,9 @@
 
 > 풀이
 
-- [Level 02 : 기능개발](https://github.com/Seok-CH/coding-test/blob/main/programmers/DFS-BFS/Level02-%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.js)
-- [Level 02 : 프린터](https://github.com/Seok-CH/coding-test/blob/main/programmers/DFS-BFS/Level03-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.js)
-- [Level 02 : 다리를 지나가는 트럭](https://github.com/Seok-CH/coding-test/blob/main/programmers/DFS-BFS/Level03-%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.js)
+- [Level 02 : 기능개발](https://github.com/Seok-CH/coding-test/blob/main/programmers/Stack-Queue/Level02-%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.js)
+- [Level 02 : 프린터](https://github.com/Seok-CH/coding-test/blob/main/programmers/Stack-Queue/Level02-%ED%94%84%EB%A6%B0%ED%84%B0.js)
+- [Level 02 : 다리를 지나가는 트럭](https://github.com/Seok-CH/coding-test/blob/main/programmers/Stack-Queue/Level02-%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EA%B0%80%EB%8A%94%20%ED%8A%B8%EB%9F%AD.js)
 - ~~Level 02 : 주식가격~~ (자바스크립트 미지원)
 
 ---
