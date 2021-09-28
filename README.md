@@ -30,9 +30,9 @@
 
 > 풀이
 
-- [Level 01 : K번째수](https://github.com/Seok-CH/coding-test/blob/main/programmers/Stack-Queue/Level02-%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.js)
-- [Level 02 : 가장 큰 수](https://github.com/Seok-CH/coding-test/blob/main/programmers/Stack-Queue/Level02-%ED%94%84%EB%A6%B0%ED%84%B0.js)
-- [Level 02 : H-Index](https://github.com/Seok-CH/coding-test/blob/main/programmers/Stack-Queue/Level02-%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EA%B0%80%EB%8A%94%20%ED%8A%B8%EB%9F%AD.js)
+- [Level 01 : K번째수](https://github.com/Seok-CH/coding-test/blob/main/programmers/Sort/Level01-K%EB%B2%88%EC%A7%B8%EC%88%98.js)
+- [Level 02 : 가장 큰 수](https://github.com/Seok-CH/coding-test/blob/main/programmers/Sort/Level02-%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.js)
+- [Level 02 : H-Index](https://github.com/Seok-CH/coding-test/blob/main/programmers/Sort/Level02-H-Index.js)
 
 ---
 
