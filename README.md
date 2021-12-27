@@ -34,6 +34,15 @@
 - [Level 02 : 가장 큰 수](https://github.com/Seok-CH/coding-test/blob/main/programmers/Sort/Level02-%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.js)
 - [Level 02 : H-Index](https://github.com/Seok-CH/coding-test/blob/main/programmers/Sort/Level02-H-Index.js)
 
+### 4. 이분탐색
+
+- **[프로그래머스 문제 링크](https://programmers.co.kr/learn/courses/30/parts/12198)**
+
+> 풀이
+
+- [Level 03 : 입국심사]()
+- [Level 04 : 징검다리]()
+
 ---
 
 ## [백준](https://www.acmicpc.net/problemset)
